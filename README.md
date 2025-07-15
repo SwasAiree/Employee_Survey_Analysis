@@ -25,6 +25,8 @@ As the acting data analyst for GKJ Pty Ltd, I analyzed a dataset of 400 employee
 
 ## 🔍 Key Findings
 - Average salary exceeds $75,000 with 95% confidence
+- <img width="292" height="251" alt="image" src="https://github.com/user-attachments/assets/07fea1d3-8482-4e2c-8140-c0bc07300048" />
+
 - Skill preparedness is generally high among staff
 - Work experience affects salary, but weakly
 - Gender and age do not significantly impact AI-related perceptions
