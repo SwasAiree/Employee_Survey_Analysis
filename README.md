@@ -1,9 +1,9 @@
 # Employee_Survey_Analysis
 Data-driven analysis of employee survey responses at GKJ Pty Ltd to evaluate workforce readiness for AI integration.
 
-# 📊 Employee Survey Data Analysis – MIS770 (T1 2024)
+# 📊 Employee Survey Data Analysis 
 
-This project was completed as part of the **MIS770 – Foundation Skills in Data Analysis** unit at Deakin University. The objective was to analyze employee perceptions related to AI integration in the workplace using a structured statistical approach.
+This project was completed as part of the **Foundation Skills in Data Analysis** unit at Deakin University. The objective was to analyze employee perceptions related to AI integration in the workplace using a structured statistical approach.
 
 ## 📝 Project Overview
 As the acting data analyst for GKJ Pty Ltd, I analyzed a dataset of 400 employees to explore:
@@ -16,8 +16,8 @@ As the acting data analyst for GKJ Pty Ltd, I analyzed a dataset of 400 employee
 - Sample size estimations for future surveys
 
 ## 📂 Files Included
-- `EmployeeSurvey2024_s224389999.docx` – Final report answering business questions in plain language for non-technical stakeholders.
-- `EmployeeSurvey2024_s224389999.xlsx` – Excel file containing all statistical calculations, visualizations, confidence intervals, hypothesis tests, and sample size estimates.
+- `EmployeeSurvey2024.docx` – Final report answering business questions in plain language for non-technical stakeholders.
+- `EmployeeSurvey2024.xlsx` – Excel file containing all statistical calculations, visualizations, confidence intervals, hypothesis tests, and sample size estimates.
 
 ## 🛠️ Tools Used
 - Microsoft Excel (Data Cleaning, Analysis, Visualization)
